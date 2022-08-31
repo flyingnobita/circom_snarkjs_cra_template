@@ -21,3 +21,4 @@ This repo serves as a template for a project based on [circom](https://github.co
 ## Repo Management
 
 - [Yarn Workspace](https://classic.yarnpkg.com/lang/en/docs/workspaces/) for managing as a monorepo
+- [Gitleaks-Action](https://github.com/gitleaks/gitleaks-action) to prevent secrets from checking into repo
